@@ -1,0 +1,64 @@
+#searchMovie {
+
+	margin-top: 10px;
+	margin-bottom: 50px;
+	
+}
+
+h1 {
+
+	font-family: 'Lobster', cursive;
+	color: white;
+    text-shadow: 2px 2px #1d628b;
+}
+
+
+h3{
+
+	color: black;
+	font-family: 'Lobster', cursive;
+	
+    
+}
+
+
+th {
+
+font-family: 'Lobster', cursive;
+	color: white;
+    text-shadow: 2px 2px #1d628b;
+    font-size: 25px;
+
+}
+
+td{
+
+	font-size: 35px;
+	font-family: 'Candal', sans-serif;
+}
+
+body > div > div.animacion > center {
+
+	background: black;
+}
+
+body{
+    background:url('../img/Movie-Themed-Icon-Pattern-l.jpg');
+    padding:30px;
+}
+
+footer {
+
+	margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    }
+
+a {
+
+font-family: 'Candal', sans-serif;
+	
+}
